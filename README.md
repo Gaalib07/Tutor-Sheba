@@ -162,14 +162,7 @@ This was built as a university final project, so some parts are still to be done
 
 The UI uses the *Segoe UI* font. On systems without it, Java uses a fallback font, so the text may look slightly different.
 
-## Team
 
-| Name | ID |
-|---|---|
-| Hedayet Ullah Patwary | 22-47904-2 |
-| MD Hasan AL Hussain Rifat | 22-47536-2 |
-| MD Shafkat Manjur Deepto | 22-49014-3 |
-| MD Sadikul Islam | 22-49036-3 |
 
 ## License
 
