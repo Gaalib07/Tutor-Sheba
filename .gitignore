@@ -1,0 +1,24 @@
+# Compiled output
+*.class
+bin/
+out/
+build/
+
+# Runtime data created by the app (user accounts and passwords)
+Gdata.txt
+Tdata.txt
+tprefdata.txt
+
+# IDEs / editors
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+nbproject/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
